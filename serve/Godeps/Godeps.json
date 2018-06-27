@@ -1,0 +1,16 @@
+{
+	"ImportPath": "github.com/korylprince/docker-http/serve",
+	"GoVersion": "go1.10",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/goji/httpauth",
+			"Rev": "2da839ab0f4df05a6db5eb277995589dadbd4fb9"
+		},
+		{
+			"ImportPath": "github.com/gorilla/handlers",
+			"Comment": "v1.3.0-4-g13a38d2",
+			"Rev": "13a38d26174b16d5b4bf6f1094c1389ec9879572"
+		}
+	]
+}
