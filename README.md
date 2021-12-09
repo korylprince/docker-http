@@ -1,3 +1,5 @@
+# THIS PROJECT IS NO LONGER MAINTAINED
+
 # About
 
 This is a simple program (with [Docker image](https://hub.docker.com/r/korylprince/docker-http/)) to serve the static contents of a folder. It can be configured to use HTTP Basic Auth with a supplied username and password.
